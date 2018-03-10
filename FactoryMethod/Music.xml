@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+  <artist>
+    <name>ルートヴィヒ・ヴァン・ベートーヴェン</name>
+    <music>
+      <name>ピアノソナタ第２３番へ長調「情熱</name>
+    </music>
+  </artist>
+  <artist>
+    <name>ヴォルフガング・アマデウス・モーツァルト</name>
+    <music>
+      <name>魔笛</name>
+      <name>長調 K.525「小夜曲」</name>
+    </music>
+  </artist>
+  <artist>
+    <name>アントニン・ドヴォルザーク</name>
+    <music>
+      <name>
+        交響曲第９番ホ長調「新世界より」
+      </name>
+    </music>
+  </artist>
+</data>
